@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="Entrada"></string>
+    <string name="instrucciones2">Ingresar el segundo numero</string>
+    <string name="boton">Continuar</string>
+    <string name="resultado">El resultado es:</string>
+
+</resources>
